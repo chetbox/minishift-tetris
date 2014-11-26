@@ -9,7 +9,9 @@ A Tetris implements for a chain of 8x8 Minishift LED displays
 
 ## How to play
 
-        `Left`/`Right`: Move left/right
-        `Up`/`Space`: Rotate
-        `Down`: Drop
-
+Key                   | Action
+--------------------- | ----------
+:arrow_left:          | Move left
+:arrow_right:         | Move right
+:arrow_up: or `Space` | Rotate
+:arrow_down:          | Drop
