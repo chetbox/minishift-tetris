@@ -1,6 +1,6 @@
 # Minishift Tetris
 
-A Tetris implements for a chain of 8x8 Minishift LED displays
+A Tetris implementation for a chain of 8x8 Minishift LED displays
 
 ## Installation
 
