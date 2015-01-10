@@ -134,6 +134,7 @@ class Tetris:
 
     def run(self):
         pygame.init()
+        pygame.display.set_mode((100, 100))
         self.in_play = True
         while self.in_play:
             self.process_input_events()
