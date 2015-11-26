@@ -2,6 +2,8 @@
 
 A Tetris implementation for a chain of 8x8 Minishift LED displays
 
+![Demo](demo.gif)
+
 ## Installation
 
         $ sudo pip install cython minishift-python numpy hg+http://bitbucket.org/pygame/pygame
